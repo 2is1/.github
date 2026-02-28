@@ -1,6 +1,6 @@
-# Welcome to 2in1 Team
+# Welcome to 2is1 Team
 
-We are the 2in1 team, dedicated to developing practical apps for your daily life. Our team manages every stage of the Software Development Life Cycle (SDLC) to ensure a smooth and reliable user experience.
+We are the 2is1 team, dedicated to developing practical apps for your daily life. Our team manages every stage of the Software Development Life Cycle (SDLC) to ensure a smooth and reliable user experience.
 
 We hope you enjoy using our current projects and look forward to what we have planned for the future.
 
