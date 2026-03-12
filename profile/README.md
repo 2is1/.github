@@ -21,6 +21,9 @@ Thank you for your support, and we hope you enjoy our apps!
 Please contact me via email for any software development contribution, collaboration or feedback: ashi.dev.86@gmail.com
 
 If you find my work helpful and wish to support me, donations are welcome at:<br>
+**The PayPal account link:**<br>
+[PayPal.Me/ashkan65](https://www.paypal.me/ashkan65?utm_source=unp&utm_medium=email&utm_campaign=PPC000628&utm_unptid=c1caa46c-90c3-11e9-97af-5cb90192ce28&ppid=PPC000628&cnac=MY&rsta=en_C2&cust=3EW3RVUSCXY68&unptid=c1caa46c-90c3-11e9-97af-5cb90192ce28&calc=c41f4d4c63e22&unp_tpcid=ppme-social-user-profile-created&page=main:email:PPC000628:::&pgrp=main:email&e=cl&mchn=em&s=ci&mail=sys)
+
 **The MYR account details on Wise:**<br>
 Name: Ashkan Aliabbasi<br>
 Account number: 312123400104250
