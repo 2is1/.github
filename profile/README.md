@@ -18,7 +18,7 @@ You can access the live version of our first application here:
 
 Thank you for your support, and we hope you enjoy our apps!
 
-Please contact me via email for any software development contribution, collaboration or feedback: ashi.dev.86@gmail.com
+Please contact me via email for any software development contribution, collaboration or feedback: team@tier-list.click
 
 If you find my work helpful and wish to support me, donations are welcome at:<br>
 **The PayPal account link:**<br>
