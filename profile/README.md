@@ -21,7 +21,7 @@ Thank you for your support, and we hope you enjoy our apps!
 Please contact me via email for any software development contribution, collaboration or feedback: team@tier-list.click
 
 If you find my work helpful and wish to support me, donations are welcome at:<br>
-**The ko-fi account link:**<br>
+**You can now buy me a coffee on ko-fi:**<br>
 https://ko-fi.com/twoisone
 
 **The PayPal account link:**<br>
