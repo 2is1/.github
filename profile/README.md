@@ -6,7 +6,7 @@ We hope you enjoy using our current projects and look forward to what we have pl
 
 ### Our First App: Options Categorizer
 You can access the live version of our first application here:
-[Options Categorizer](https://options-categorizer.onrender.com/)
+[Options Categorizer](https://tier-list.click/)
 
 ### Tech Stack:
 
