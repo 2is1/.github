@@ -18,7 +18,7 @@ You can access the live version of our first application here:
 
 
 
-### App #1: Offside
+### App #2: Offside
 
 ### Tech Stack:
 
