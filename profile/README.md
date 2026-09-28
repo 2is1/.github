@@ -4,7 +4,7 @@ We are the 2is1 team, dedicated to developing practical apps for your daily life
 
 We hope you enjoy using our current projects and look forward to what we have planned for the future.
 
-### Our First App: Options Categorizer
+### App #1: Options Categorizer
 You can access the live version of our first application here:
 [Options Categorizer](https://tier-list.click/)
 
@@ -12,9 +12,21 @@ You can access the live version of our first application here:
 
     Frontend: React (TypeScript)
 
+    Mobile: Capacitor
+
     Backend: Node.js (TypeScript)
 
-    Note: You can download the Android app directly from the header section of the website.
+
+
+### App #1: Offside
+
+### Tech Stack:
+
+    Frontend: React (TypeScript)
+
+    Mobile: React-Native
+
+    Backend: Node.js (TypeScript)
 
 Thank you for your support, and we hope you enjoy our apps!
 
