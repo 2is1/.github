@@ -26,7 +26,7 @@ Offside is a football prediction platform. It is still in the early implementati
 
     Mobile: React-Native
 
-    Backend: Node.js (TypeScript)
+    Backend: Nest.js (TypeScript)
 
 
 ### App #3: Tic
