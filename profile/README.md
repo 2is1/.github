@@ -17,8 +17,8 @@ You can access the live version of our first application here:
     Backend: Node.js (TypeScript)
 
 
-
 ### App #2: Offside
+Offside is a football prediction platform. It is still in the early implementation stage and has not been deployed yet.
 
 ### Tech Stack:
 
@@ -27,6 +27,21 @@ You can access the live version of our first application here:
     Mobile: React-Native
 
     Backend: Node.js (TypeScript)
+
+
+### App #3: Tic
+A world-class, multi-channel TV playout automation system. It is still in the early implementation stage and has not been deployed yet.
+
+### Tech Stack:
+
+    Core Engine: C++/Rust
+
+    AI Services: Python
+
+    Backend: Node.js (TypeScript)
+
+    Web Panel: React (Typescript)
+
 
 Thank you for your support, and we hope you enjoy our apps!
 
