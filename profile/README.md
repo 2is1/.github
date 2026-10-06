@@ -45,7 +45,7 @@ A world-class, multi-channel TV playout automation system. It is still in the ea
 
 Thank you for your support, and we hope you enjoy our apps!
 
-Please contact me via email for any software development contribution, collaboration or feedback: team@tier-list.click
+Please contact me via email for any software development contribution, collaboration or feedback: me@ashkandev.com
 
 If you find my work helpful and wish to support me, donations are welcome at:<br>
 **You can now buy me a coffee on ko-fi:**<br>
