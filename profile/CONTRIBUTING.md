@@ -14,7 +14,7 @@ Whether you are fixing a bug, adding a new feature, or improving documentation, 
 
 Because our repositories are **private**, our contribution workflow differs slightly from open-source projects.
 
-*   **Getting Access:** You must be invited to the `2is1` GitHub organization or granted explicit read/write access to a specific repository. If you need access, please contact the organization: team@tier-list.click
+*   **Getting Access:** You must be invited to the `2is1` GitHub organization or granted explicit read/write access to a specific repository. If you need access, please contact the organization: me@ashkandev.com
 *   **Confidentiality:** All code, discussions, issues, and documentation within this organization are strictly confidential. Do not share code snippets, architecture details, or project roadmaps outside of the organization without explicit permission.
 *   **No Public Forks:** Please do not fork private repositories into public personal accounts. All branching and pull requests must remain within the private organization ecosystem.
 *   **Never push directly to `master` or `dev` branches.** All changes must go through a Pull Request.
